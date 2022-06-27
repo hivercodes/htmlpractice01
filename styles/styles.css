@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(210, 247, 255, 0.945);
+  }
+
+  hr {
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 15px;
+    border-color: white;
+  }
+
+img {
+  border-radius: 50%;
+  width: 10rem;
+}
